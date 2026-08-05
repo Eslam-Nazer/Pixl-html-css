@@ -13,5 +13,9 @@
   "type": "module",
   "devDependencies": {
     "vite": "^8.2.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3"
   }
 }
